@@ -232,5 +232,14 @@
       "Answer for What's sum of values in north.csv on Jan 05th? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787252251.370942,
+    "completed_at": 1787252255.256198,
+    "comments": [
+      "Missing question What's sum of values in south.csv on Jan 11th? in answers file."
+    ],
+    "status": "Error"
   }
 ]
